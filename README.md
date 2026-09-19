@@ -7,7 +7,7 @@ The work follows the real-world data pipeline, from collecting raw information t
 ## Progress
 
 | Week | Topic | Platform | Status | Notebook |
-|------|-------|----------|--------|----------|
+| ------ | ------- | ---------- | -------- | ---------- |
 | 1 | Web Scraping | Google Colab | Complete | [Open notebook](https://colab.research.google.com/drive/1V4gDEv4Gnmt7bQaUJA4_Y4Nme4hsQoJk?usp=sharing) |
 | 2 | Data Wrangling in Python | Kaggle | Complete | [Open notebook](https://www.kaggle.com/code/prudencenyangweso/week-2-assignment-2-data-wrangling-in-python) |
 | 3 | To be announced | To be announced | Ongoing | |
