@@ -10,7 +10,7 @@ The work follows the real-world data pipeline, from collecting raw information t
 | ------ | ------- | ---------- | -------- | ---------- |
 | 1 | Web Scraping | Google Colab | Complete | [Open notebook](https://colab.research.google.com/drive/1V4gDEv4Gnmt7bQaUJA4_Y4Nme4hsQoJk?usp=sharing) |
 | 2 | Data Wrangling in Python | Kaggle | Complete | [Open notebook](https://www.kaggle.com/code/prudencenyangweso/week-2-assignment-2-data-wrangling-in-python) |
-| 3 | To be announced | To be announced | Ongoing | |
+| 3 | EDA Masterclass: Titanic Dataset | Kaggle | Complete | [Open notebook](https://www.kaggle.com/code/prudencenyangweso/assignment-4-eda-masterclass-titanic-dataset) |
 
 ## Week 1: Web Scraping
 
@@ -29,6 +29,12 @@ Used Kaggle's Netflix Shows dataset and followed the six-step data-wrangling pro
 
 The result was a clean dataset with 8,776 rows and 16 analysis-ready columns.
 
+## Week 3: Exploratory Data Analysis Masterclass
+
+Applied exploratory data analysis techniques to the Titanic dataset in Kaggle, using structured data exploration, summary statistics, visual analysis, and interpretation to investigate patterns in the data.
+
+[Open the Week 3 Kaggle notebook](https://www.kaggle.com/code/prudencenyangweso/assignment-4-eda-masterclass-titanic-dataset)
+
 ## Tools
 
 - Python
@@ -38,5 +44,7 @@ The result was a clean dataset with 8,776 rows and 16 analysis-ready columns.
 - Web scraping
 - Data validation
 - Data wrangling
+- Exploratory data analysis
+- Data visualisation
 
 More weekly projects will be added as the CyberShujaa program progresses.
